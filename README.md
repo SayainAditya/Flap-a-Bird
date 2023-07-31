@@ -6,7 +6,7 @@
 2. Protect the bird from colliding on the pipes.
 
 ## Controls
-Use space to jump the bird from miidle of the pipes.
+Use space to jump the bird from middle of the pipes.
 
 ## Screenshots
 ! [Starting piont]
