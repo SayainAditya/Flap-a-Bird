@@ -9,5 +9,6 @@
 Use space to jump the bird from miidle of the pipes.
 
 ## Screenshots
-![Starting piont] (https://raw.githubusercontent.com/SayainAditya/Flap-a-Bird/main/screenshots/Screenshot%202023-07-31%20121447.png)
+! [Starting piont]
+(https://raw.githubusercontent.com/SayainAditya/Flap-a-Bird/main/screenshots/Screenshot%202023-07-31%20121447.png)
 
